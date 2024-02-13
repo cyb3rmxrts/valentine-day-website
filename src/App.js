@@ -22,7 +22,7 @@ import ursinhos_bebida from "./assets/ursinhos_bebida.gif";
 import ursinha_mordidas from "./assets/ursinha_mordidas.gif";
 import ursinho_pegando_no_sono from "./assets/ursinho_pegando_no_sono.gif";
 import ursinhos_dormindo from "./assets/ursinhos_dormindo.gif";
-import eddyS2Lidiane from "./assets/eddyS2Lidiane.jpeg";
+import cruiser from "./assets/cruiser.jpg";
 
 const App = () => {
 
@@ -191,7 +191,7 @@ const App = () => {
         sequency="18"
       />
       <Screen
-        imageUrl={eddyS2Lidiane}
+        imageUrl={cruiser}
         bgColor={colors.red}
         textColor={colors.white}
         title="Feliz dia dos namorados"
