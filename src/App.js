@@ -32,80 +32,80 @@ const App = () => {
         imageUrl={ursinho_pandinha_ok}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Estes são Ursinho e Pandinha"
+        title="This is Teddy Bear and Panda"
         text="They have known each other for a long time, and were friends, but today they are more than that... they are dating."
-        btnText="Saiba mais"
+        btnText="Let's Begin"
         sequency="1"
       />
       <Screen
         imageUrl={ursinho_estudando}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="Ursinho"
+        title="Teddy Bear"
         text="The teddy bear is very studious and funny, he always makes the little panda laugh, but he is very slow and doesn't always understand what the little panda wants to say."
-        btnText="Continuar"
+        btnText="Continue"
         sequency="2"
       />
       <Screen
         imageUrl={pandinha}
         bgColor={colors.pink}
         textColor={colors.white}
-        title="Pandinha"
+        title="Panda"
         text="The panda is very cute, she always cares about others, but she has no patience at all. And there's a different way of showing what you feel...
         "
-        btnText="Continuar"
+        btnText="Continue"
         sequency="3"
       />
       <Screen
         imageUrl={ursinho_S2_pandinha}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Ursinho S2 Pandinha"
+        title="Teddy Bear & Panda"
         text="As I said, these two are now lovers, they are not perfect... but they always help each other and overcome problems together."
-        btnText="Continuar"
+        btnText="Continue"
         sequency="4"
       />
       <Screen
         imageUrl={ursinha_chorando}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Pandinha triste"
+        title="Sad Panda"
         text="Sometimes the little panda gets sad about some things, and ends up crying and sad... :( But the little bear always comes to try to cheer her up and almost manages to make her laugh"
-        btnText="Continuar"
+        btnText="Continue"
         sequency="5"
       />
       <Screen
         imageUrl={ursinho_chorando}
         bgColor={colors.green}
         textColor={colors.white}
-        title="Ursinho triste"
+        title="Sad Teddy Bear"
         text="Sometimes it's the teddy bear who gets sad about some problems, and then the little panda comes with her love and cuteness and helps the teddy bear when he's sad. :)"
-        btnText="Continuar"
+        btnText="Continue"
         sequency="6"
       />
       <Screen
         imageUrl={pandinha_martelo}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="Ursinho lerdo"
+        title="Slow Teddy Bear"
         text="The teddy bear is slow and sometimes doesn't understand what the little panda meant exactly, and understands it completely differently..."
-        btnText="Continuar"
+        btnText="Continue"
         sequency="7"
       />
       <Screen
         imageUrl={pandinha_brava}
         bgColor={colors.yellow}
         textColor={colors.white}
-        title="Pandinha e sua paciência"
+        title="Impatient Panda"
         text="The little panda is VERY LOVING, but the lack of patience is the same... and sometimes she gets irritated because the little bear is slow."
-        btnText="Continuar"
+        btnText="Continue"
         sequency="8"
       />
       <Screen
         imageUrl={ursinho_catucando_pandinha}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Insistência do ursinho"
+        title="Persistent Teddy Bear"
         text="The panda doesn't like to be direct, so the teddy bear will disturb the pandinha until she speaks..."
         btnText="Continue"
         sequency="9"
@@ -114,90 +114,90 @@ const App = () => {
         imageUrl={ursinho_coracao}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="O amor do ursinho"
+        title="Teddy Bear's Love"
         text="Then the teddy bear, after hours of trying to explain, apologizes for being slow and says how much he loves the panda.."
-        btnText="Owwwwn <3"
+        btnText="<3"
         sequency="10"
       />
       <Screen
         imageUrl={pandinha_coracao}
         bgColor={colors.yellow}
         textColor={colors.white}
-        title="O amor da pandinha"
+        title="Panda's Love"
         text="The panda behind all her lack of patience also loves the teddy bear, and ends up saying that she loves him too."
-        btnText="Owwwwn <3"
+        btnText="<3"
         sequency="11"
       />
       <Screen
         imageUrl={ursinhos_apaixonados}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Depois disso..."
+        title="After that..."
         text="After everything is resolved, the two are fine and happy... and do many things together like friends and lovers that they are."
-        btnText="Continuar"
+        btnText="Continue"
         sequency="12"
       />
       <Screen
         imageUrl={ursinhos_caminhada}
         bgColor={colors.pink}
         textColor={colors.white}
-        title="Eles caminham juntos"
+        title="They walk together"
         text="The two love walking together, they laugh a lot, especially at the panda's 'enemies'. ~laughs"
-        btnText="Caminhando..."
+        btnText="Walking..."
         sequency="13"
       />
       <Screen
         imageUrl={ursinhos_fotinha}
         bgColor={colors.green}
         textColor={colors.white}
-        title="Hoje eles tiram fotos juntos"
+        title="They take pictures together"
         text="The pandinha wants to look perfect in the photos, she always asks the teddy bear to take it again ~laughs"
-        btnText="Mais fotinhas..."
+        btnText="More photos..."
         sequency="14"
       />
       <Screen
         imageUrl={ursinhos_bebida}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Bebem juntos"
+        title="They eat together"
         text="Teddy bear and panda love to eat together, and enjoy the good times with some music"
-        btnText="bebidas depois..."
+        btnText="More food and drink..."
         sequency="15"
       />
       <Screen
         imageUrl={ursinha_mordidas}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="A ursinha fica brincando com o ursinho"
+        title="They play together"
         text="It looks fun looking at it like that hahaha... for the teddy bear of course... look at the poor teddy bear, look at his face!"
-        btnText="Mordidas depois..."
+        btnText="Later..."
         sequency="16"
       />
       <Screen
         imageUrl={ursinho_pegando_no_sono}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="A noite"
+        title="At night..."
         text="But every day, when the teddy bear can no longer stay awake and talk to the panda, they say goodbye and pretend to sleep together."
-        btnText="Cochiladas mais tarde..."
+        btnText="Naps later..."
         sequency="17"
       />
       <Screen
         imageUrl={ursinhos_dormindo}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="E finalmente dormem"
+        title="And they finally sleep..."
         text="See, they have difficult moments sometimes, and they cry, and they get angry... but when everything falls into place, they love each other a lot and laugh"
-        btnText="Eles dormem"
+        btnText="They sleep..."
         sequency="18"
       />
       <Screen
         imageUrl={cruiser}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Feliz dia dos namorados"
+        title="Happy Valetine's Day Kyah!"
         text="I finally thought of something that no one has ever given you and that I have never given to anyone... I hope you liked it. I love you to the stars and back Kyah... ~Gavin"
-        btnText="Fim"
+        btnText="Finish..."
         sequency="19"
       />
     </div>
